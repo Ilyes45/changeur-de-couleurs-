@@ -8,9 +8,9 @@
     width: 600px;
     height: 300px;
     border-radius: 10px;
-    transition: 4s ease-in;
+    transition: 4s ;
     border: 2px solid #ccc;
-    box-shadow: 10px 10px 10px #333, -10px,-10px,-10px #bbb;
+    
 }
 #change-color-btn{
    font-weight: 600;
